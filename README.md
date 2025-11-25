@@ -5,5 +5,6 @@ M2 - brief 1 Nettoyage de données numériques
 ````
 pip install notebook jupyterlab ipykernel
 python3 -m ipykernel install --user
+jupyter lab
 ````
 
