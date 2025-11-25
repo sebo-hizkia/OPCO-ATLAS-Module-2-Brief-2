@@ -1,3 +1,4 @@
 missingno
 pandas
 PyQt5
+scikit-learn
