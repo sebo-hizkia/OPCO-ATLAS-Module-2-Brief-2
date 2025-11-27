@@ -1,10 +1,12 @@
-# OPCO-ATLAS-Module-2-Brief-1
-M2 - brief 1 Nettoyage de données numériques
+# OPCO-ATLAS-Module-2-Brief-2
+M2 - brief 2 - Analyse Ethique et nettoyage complet d'un Jeu de Données
 
 ## Notebook
 Pour ce projet j'ai utilisé un Notebook pour consigner mon travail. Pour cela j'ai utilisé JupyterLab.
 ````
-pip install notebook jupyterlab ipykernel
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirement.txt
 python3 -m ipykernel install --user
 jupyter lab
 ````
